@@ -48,7 +48,6 @@ body {
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
-
 header {
   background-color: #434345;
   height: 60px;
@@ -74,8 +73,6 @@ header {
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
 }
 
-
-
 header .container {
   display: flex;
   justify-content: space-between;
@@ -88,7 +85,6 @@ header img {
   height: 40px;
 }
 
-
 header h1 {
   color: #faa21b;
   font-size: 28px;
@@ -100,11 +96,6 @@ header h2 {
   color: white;
   font-size: 22px;
   margin: 0;
-}
-
-.container {
-  margin: 20px auto;
-  max-width: 600px;
 }
 
 form {
