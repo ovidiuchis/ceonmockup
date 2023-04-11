@@ -1,0 +1,191 @@
+/* For the "cauta" page */
+body {
+  background-color: #f8f8f8;
+  font-family: Arial, sans-serif;
+}
+
+.logo img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.btn-cauta {
+  background-color: #faa21b;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 0.5rem 1.5rem;
+  border: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+  cursor: pointer;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  align-items: center;
+}
+
+.btn-cauta:hover {
+  background-color: #d98f19;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+.btn-back:hover {
+  background-color: #8d8d91;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+.btn-back {
+  background-color: #434345;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 0.5rem 1.5rem;
+  border: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+  cursor: pointer;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+}
+
+
+header {
+  background-color: #434345;
+  height: 60px;
+  padding: 10px 20px;
+  align-items: center;
+  text-align: center;
+}
+.btn-confirm-check-in {
+  background-color: #faa21b;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 0.5rem 1.5rem;
+  border: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+  cursor: pointer;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);  
+}
+
+.btn-confirm-check-in:hover {
+  background-color: #d98f19;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  align-items: center;
+}
+
+header img {
+  height: 40px;
+}
+
+
+header h1 {
+  color: #faa21b;
+  font-size: 28px;
+  margin: 0;
+  align-items: center;
+}
+
+header h2 {
+  color: white;
+  font-size: 22px;
+  margin: 0;
+}
+
+.container {
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+form {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+  padding: 20px;
+}
+
+form label {
+  display: block;
+  font-size: 16px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+form input[type="text"] {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 16px;
+  padding: 10px;
+  padding-right: 0;
+  width: 100%;
+}
+
+form input[type="submit"] {
+  background-color: #faa21b;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-size: 16px;
+  padding: 10px;
+  width: 100%;
+  cursor: pointer;
+}
+
+/* For the "detalii" page */
+body {
+  background-color: #f8f8f8;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #434345;
+  padding: 10px 20px;
+}
+
+header h1 {
+  color: #faa21b;
+  font-size: 28px;
+  margin: 0;
+}
+
+.container {
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td,
+table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+table th {
+  background-color: #faa21b;
+  color: white;
+}
+
+table caption {
+  font-size: 24px;
+  margin-bottom: 10px;
+  text-align: center;
+}
