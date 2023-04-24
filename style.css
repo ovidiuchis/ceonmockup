@@ -13,7 +13,7 @@ body {
   left: 10px;
 }
 
-.btn-cauta {
+.btn {
   background-color: #faa21b;
   color: #fff;
   font-size: 1.2rem;
@@ -26,15 +26,45 @@ body {
   align-items: center;
 }
 
-.btn-cauta:hover {
+.btn:hover {
   background-color: #d98f19;
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
 }
 
-.btn-back:hover {
+.btn:hover {
   background-color: #8d8d91;
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
 }
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;  
+}
+.btn-checkin{
+  background-color: #faa21b;
+  color: #fff;
+  font-size: 5rem;
+  padding: 0.5rem 1.5rem;
+  border: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+  cursor: pointer;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  align-items: center;
+}
+
+
+.btn-checkin:hover {
+  background-color: #d98f19;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+.btn-checkin:hover {
+  background-color: #8d8d91;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+}
+
 
 .btn-back {
   background-color: #434345;
@@ -56,7 +86,7 @@ header {
   text-align: center;
 }
 
-.btn-confirm-check-in {
+.btn {
   background-color: #faa21b;
   color: #fff;
   font-size: 1.2rem;
@@ -68,7 +98,7 @@ header {
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
-.btn-confirm-check-in:hover {
+.btn:hover {
   background-color: #d98f19;
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
 }
