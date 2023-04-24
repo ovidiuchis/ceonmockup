@@ -31,7 +31,6 @@ body {
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
 }
 
-.btn:hover {
   background-color: #8d8d91;
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
 }
@@ -60,7 +59,6 @@ body {
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
 }
 
-.btn-checkin:hover {
   background-color: #8d8d91;
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
 }
@@ -86,7 +84,6 @@ header {
   text-align: center;
 }
 
-.btn {
   background-color: #faa21b;
   color: #fff;
   font-size: 1.2rem;
@@ -98,7 +95,6 @@ header {
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
-.btn:hover {
   background-color: #d98f19;
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
 }
