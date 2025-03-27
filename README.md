@@ -70,7 +70,3 @@ Acest portal digital are ca scop înlocuirea procesului tradițional de check-in
 👉 [Accesează mockup-ul aici](https://ovidiuchis.github.io/ceonmockup/)
 
 ---
-
-## 📂 Licență
-
-Distribuit sub licență MIT. Vezi fișierul `LICENSE` pentru detalii.
