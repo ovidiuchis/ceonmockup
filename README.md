@@ -50,7 +50,10 @@ Acest portal digital are ca scop înlocuirea procesului tradițional de check-in
 
 ## 📸 Captură ecran
 
-![screenshot](https://ovidiuchis.github.io/ceonmockup/assets/demo.png)
+![screenshot](assets/start.png)
+![screenshot](assets/transport.png)
+![screenshot](assets/demo.png)
+![screenshot](assets/final.png)
 
 ---
 
