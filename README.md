@@ -60,8 +60,7 @@ Acest portal digital are ca scop înlocuirea procesului tradițional de check-in
 ## 👨‍💼 Autor
 
 **Ovidiu Chiș**  
-📫 [ovidiuchis.github.io](https://ovidiuchis.github.io)  
-💼 Project Idea by: [Cemacon](https://www.cemacon.ro/)
+📫 [ovidiuchis.github.io](https://ovidiuchis.github.io)
 
 ---
 
